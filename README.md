@@ -1,10 +1,12 @@
-### Hi there 👋, Asanka Munasinghe
+### Hi there 👋, I'm Asanka Munasinghe
 #### Front End Developer
 <!-- ![Front End Developer](https://avatars.githubusercontent.com/u/21038394?v=4)-->
 
 I'm Asanka from Perth, Western Australia. I am working as a Front End Developer. Currently learning advanced concepts of Javascript and building my own Wordpress Theme.
 
-Skills: JS / HTML / CSS
+## Skills and Experience
+
+JS / HTML / CSS
 
 - 🌱 I’m currently learning Advanced Javascript Concepts 
 - 🤔 I’m looking for help with becoming a full stack developer 
