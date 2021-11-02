@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Asanka Munasinghe
+## Hi there 👋, I'm Asanka Munasinghe
 #### Front End Developer
 <!-- ![Front End Developer](https://avatars.githubusercontent.com/u/21038394?v=4)-->
 
