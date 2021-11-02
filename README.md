@@ -6,7 +6,7 @@ I'm Asanka from Perth, Western Australia. I am working as a Front End Developer.
 
 Skills: JS / HTML / CSS
 
-- 🌱 I’m currently learning Advanced Javascripts 
+- 🌱 I’m currently learning Advanced Javascript Concepts 
 - 🤔 I’m looking for help with becoming a full stack developer 
 
 
