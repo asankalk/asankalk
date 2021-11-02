@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Asanka from Perth, Western Australia. I am working as a Front End Developer. 
+Currently learning advanced concepts of Javascript and building my own Wordpress Theme. 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asankalk)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **asankalk/asankalk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
