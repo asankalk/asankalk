@@ -2,8 +2,6 @@
 #### Front End Developer
 <!-- ![Front End Developer](https://avatars.githubusercontent.com/u/21038394?v=4)-->
 
-I'm Asanka from Perth, Western Australia. 
-
 ## Skills and Experience
 
 JS / HTML / CSS
