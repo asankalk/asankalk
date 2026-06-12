@@ -1,24 +1,72 @@
-## Hi there 👋, I'm Asanka Munasinghe
-#### Front End Developer
-<!-- ![Front End Developer](https://avatars.githubusercontent.com/u/21038394?v=4)-->
+<h1 align="center">Hi, I'm Asanka Munasinghe 👋</h1>
+<h3 align="center">Front End Developer building clean, responsive, user-friendly web experiences</h3>
 
-## Skills and Experience
+<p align="center">
+  <a href="https://github.com/asankalk">
+    <img src="https://komarev.com/ghpvc/?username=asankalk&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+  <a href="https://github.com/asankalk?tab=followers">
+    <img src="https://img.shields.io/github/followers/asankalk?label=Followers&style=social" alt="GitHub followers" />
+  </a>
+</p>
 
-JS / HTML / CSS
+---
 
+### About Me
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/asankalk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/asankalk/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/asankalk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/asankalk/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/asankalk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/2948959/asanka)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.asanka.live)  
+- 💻 Front End Developer focused on JavaScript, HTML, CSS, and modern web interfaces
+- 🎯 I enjoy turning ideas into simple, polished, usable products
+- 🌱 Currently sharpening my frontend craft and exploring better UI patterns
+- 🌏 Based in Perth, Australia
+- 🔗 Portfolio: [asanka.live](https://www.asanka.live)
 
+---
 
+### Tech Stack
 
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff" alt="GitHub" />
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=asankalk)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
+### Connect With Me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asankalk)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <a href="https://www.linkedin.com/in/asankalk/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/asankalk">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=fff" alt="Twitter" />
+  </a>
+  <a href="https://stackoverflow.com/users/2948959/asanka">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=fff" alt="Stack Overflow" />
+  </a>
+  <a href="https://www.instagram.com/asankalk/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=fff" alt="Instagram" />
+  </a>
+  <a href="https://www.facebook.com/asankalk">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=fff" alt="Facebook" />
+  </a>
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=asankalk&show_icons=true)  
+---
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=asankalk)  
+### GitHub Highlights
 
-![Profile views](https://gpvc.arturio.dev/asankalk)  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=asankalk&theme=flat&no-frame=true&margin-w=8" alt="GitHub trophies" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=asankalk&show_icons=true&theme=default&hide_border=true" alt="Asanka's GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asankalk&layout=compact&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asankalk&hide_border=true" alt="GitHub streak stats" />
+</p>
