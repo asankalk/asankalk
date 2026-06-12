@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Asanka Munasinghe 👋</h1>
-<h3 align="center">Front End Developer building clean, responsive, user-friendly web experiences</h3>
+<h3 align="center">Experienced Front End Developer building clean, responsive, user-friendly web experiences</h3>
 
 <p align="center">
   <a href="https://github.com/asankalk">
-    <img src="https://komarev.com/ghpvc/?username=asankalk&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=asankalk&label=Profile%20views&color=0e75b6&style=flat&base=1298" alt="Profile views" />
   </a>
   <a href="https://github.com/asankalk?tab=followers">
     <img src="https://img.shields.io/github/followers/asankalk?label=Followers&style=social" alt="GitHub followers" />
@@ -14,11 +14,10 @@
 
 ### About Me
 
-- 💻 Front End Developer focused on JavaScript, HTML, CSS, and modern web interfaces
+- 💻 Experienced Front End Developer focused on JavaScript, PHP, HTML, CSS, and modern web interfaces
 - 🎯 I enjoy turning ideas into simple, polished, usable products
 - 🌱 Currently sharpening my frontend craft and exploring better UI patterns
 - 🌏 Based in Perth, Australia
-- 🔗 Portfolio: [asanka.live](https://www.asanka.live)
 
 ---
 
@@ -26,6 +25,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff" alt="PHP" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff" alt="CSS3" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" alt="Git" />
@@ -52,21 +52,4 @@
   <a href="https://www.facebook.com/asankalk">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=fff" alt="Facebook" />
   </a>
-</p>
-
----
-
-### GitHub Highlights
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=asankalk&theme=flat&no-frame=true&margin-w=8" alt="GitHub trophies" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=asankalk&show_icons=true&theme=default&hide_border=true" alt="Asanka's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asankalk&layout=compact&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asankalk&hide_border=true" alt="GitHub streak stats" />
 </p>
